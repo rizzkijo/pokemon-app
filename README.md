@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## General Information
 Latest branch: `master`
+Demo: [https://pokemon-app-dun-iota.vercel.app/](https://pokemon-app-dun-iota.vercel.app/)
 
 ## Requirements
 - NodeJS v18 or above
