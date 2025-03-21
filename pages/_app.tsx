@@ -11,7 +11,7 @@ const App = ({ Component, pageProps }: AppProps) => {
     <>
       <QueryClientProvider client={queryClient}>
         <Header />
-        <div class="w-container max-w-full mx-auto">
+        <div className="w-container max-w-full mx-auto">
           <Component {...pageProps} />
         </div>
       </QueryClientProvider>
